@@ -1,7 +1,4 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
-
-To use this application, 
+인프런 클론 코딩 react, node js , mongodb , express
 
 1. make dev.js file inside config folder 
 2. put mongoDB info into dev.js file 
@@ -9,9 +6,7 @@ To use this application,
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
 
-If you have problem, feel free to ask me ^^ 
 
-You can watch the tutorial for this app.
 
 https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
 
